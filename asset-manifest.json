@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-smurai/static/css/main.057efe22.chunk.css",
+    "main.js": "/react-smurai/static/js/main.8aeb9386.chunk.js",
+    "main.js.map": "/react-smurai/static/js/main.8aeb9386.chunk.js.map",
+    "runtime-main.js": "/react-smurai/static/js/runtime-main.6d9d2332.js",
+    "runtime-main.js.map": "/react-smurai/static/js/runtime-main.6d9d2332.js.map",
+    "static/js/2.7428190e.chunk.js": "/react-smurai/static/js/2.7428190e.chunk.js",
+    "static/js/2.7428190e.chunk.js.map": "/react-smurai/static/js/2.7428190e.chunk.js.map",
+    "static/js/3.fff29339.chunk.js": "/react-smurai/static/js/3.fff29339.chunk.js",
+    "static/js/3.fff29339.chunk.js.map": "/react-smurai/static/js/3.fff29339.chunk.js.map",
+    "index.html": "/react-smurai/index.html",
+    "static/css/main.057efe22.chunk.css.map": "/react-smurai/static/css/main.057efe22.chunk.css.map",
+    "static/js/2.7428190e.chunk.js.LICENSE.txt": "/react-smurai/static/js/2.7428190e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d9d2332.js",
+    "static/js/2.7428190e.chunk.js",
+    "static/css/main.057efe22.chunk.css",
+    "static/js/main.8aeb9386.chunk.js"
+  ]
+}
