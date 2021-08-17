@@ -1,0 +1,23 @@
+.nav{
+    background-color: blueviolet;
+    grid-area: n;
+
+    padding-left: 25%;
+    padding-right: 25%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: ease-in 0.3s;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+    transition: ease-out 0.3s;
+}
+.item{
+  color: white;  
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: bolder;
+}

@@ -1,0 +1,26 @@
+.title{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.create{
+    margin: 10px;
+}
+.create div button{
+    color: white;
+    font-size: 22px;
+    font-weight: initial;
+    background-color: gray;
+    border-radius: 5%;
+    margin-bottom: 15px;
+}
+.create textarea{
+    min-width: 500px;
+    min-height: 50px;
+    max-height: auto;
+    margin: 0;
+    resize: vertical;
+    font-family: 'Minecraft rus', Georgia, 'Times New Roman', Times, serif;
+    height: auto;
+}

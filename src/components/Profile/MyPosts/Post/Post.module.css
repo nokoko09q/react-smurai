@@ -1,0 +1,23 @@
+.item{
+    color: white;
+    font-size: 24px;
+    /* display: flex; */
+    vertical-align: middle;
+    clear: left;
+}
+.item img{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 100%;
+    border-width: 2px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+.likes{
+    font-size: 14px;
+    color: yellowgreen;
+    margin-left: 10px;
+}
